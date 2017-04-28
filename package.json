@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:jmenglis/headless-chrome-fun.git",
   "author": "Josh English <josh@joshenglish.com>",
-  "license": "GNU"
+  "license": "GNU",
+  "dependencies": {
+    "chrome-remote-interface": "^0.21.0"
+  }
 }
