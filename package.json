@@ -1,0 +1,9 @@
+{
+  "name": "Headless-Chrome",
+  "version": "0.1.0",
+  "description": "Fun with Headless Chrome",
+  "main": "index.js",
+  "repository": "git@github.com:jmenglis/headless-chrome-fun.git",
+  "author": "Josh English <josh@joshenglish.com>",
+  "license": "GNU"
+}
