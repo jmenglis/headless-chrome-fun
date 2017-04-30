@@ -9,8 +9,6 @@ exec('/Applications/Google\\ Chrome\\ Canary.app/Contents/MacOS/Google\\ Chrome\
    console.log("Is anything going on here?");
  }
 });
-
-
 setTimeout(() => {
   CDP(client => {
     // extract domains
